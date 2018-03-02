@@ -1,6 +1,6 @@
 {% set name = "ninja_syntax" %}
-{% set version = "1.6.0" %}
-{% set sha256 = "33c203b4ee39a638c9af757ed1c4257e05abf1fae0615305d103020f36c804c5" %}
+{% set version = "1.7.2" %}
+{% set sha256 = "342dc97b9e88a6495bae22953ee6063f91d2f03db6f727b62ba5c3092a18ef1f" %}
 
 package:
   name: {{ name|lower }}
